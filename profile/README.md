@@ -1,6 +1,12 @@
 ## 애플 개발자 아카데미 @ 포스텍 입니다.
 
+[Cohort 2022](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2022)
 
+### 앱스토어에서 만나는 아카데미 프로젝트
+
+[포스밀 앱](https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%EB%B0%80/id1622795136) | 
+[포스밀 리포지터리](https://github.com/insub4067/POSMeal-POSTECH-Cafeteria-Menu-Widget-App-)
+우디 , 2022 Cohort
 
 <!--
 
