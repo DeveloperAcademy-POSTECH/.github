@@ -9,14 +9,14 @@
 
 ### Projects on the App Store
 
-제스처 스터디 [앱](https://apps.apple.com/kr/app/gesture-study/id1622544534) | 
-[리포지터리](https://github.com/HoJongPARK/Gesture-Study)
+제스처 스터디 [App](https://apps.apple.com/kr/app/gesture-study/id1622544534) | 
+[Repo](https://github.com/HoJongPARK/Gesture-Study)
 호종이 , 2022 Cohort
 
-Be [앱](https://apps.apple.com/kr/app/be/id1622128837) 코비, 2022 Cohort
+Be [App](https://apps.apple.com/kr/app/be/id1622128837) 코비, 2022 Cohort
 
-포스밀 [앱](https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%EB%B0%80/id1622795136) | 
-[리포지터리](https://github.com/insub4067/POSMeal-POSTECH-Cafeteria-Menu-Widget-App-)
+POSMeal [App](https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%EB%B0%80/id1622795136) | 
+[Repo](https://github.com/insub4067/POSMeal-POSTECH-Cafeteria-Menu-Widget-App-)
 우디 , 2022 Cohort
 
 <!--
