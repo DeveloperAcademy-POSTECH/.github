@@ -1,8 +1,13 @@
 ## 애플 개발자 아카데미 @ 포스텍 입니다.
 
-[Cohort 2022](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2022)
+### [Cohort 2022](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2022)
+ * [Mini Challenge 1](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/minichallenge1_2022) 3월 21일 ~ 4월 15일. 6그룹 3팀 오전/오후
 
-### 앱스토어에서 만나는 아카데미 프로젝트
+ * [Nano Challenge 1](https://github.com/DeveloperAcademy-POSTECH/.github/wiki/Cohort-2022-Nano-Challenge-1) 4월 25일 ~ 5월 6일. 개인 작업
+
+ * [Mini Challenge 2](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/minichallenge2_2022) 5월 10일 ~ ?월 ??일. 4그룹 4팀 오전/오후
+
+### Projects on the App Store
 
 제스처 스터디 [앱](https://apps.apple.com/kr/app/gesture-study/id1622544534) | 
 [리포지터리](https://github.com/HoJongPARK/Gesture-Study)
