@@ -19,6 +19,9 @@ POSMeal [App](https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%EB%B0%80/id162279
 [Repo](https://github.com/insub4067/POSMeal-POSTECH-Cafeteria-Menu-Widget-App-)
 우디 , 2022 Cohort
 
+Memoji Collector [App](https://apps.apple.com/kr/app/id1624912168) | 
+[Repo](https://github.com/moonjs0113/MemojiCollector)
+레이 , 2022 Cohort
 <!--
 
 **Here are some ideas to get you started:**
