@@ -22,6 +22,10 @@ Be [App](https://apps.apple.com/kr/app/be/id1622128837) 코비, 2022 Cohort
 Memoji Collector [App](https://apps.apple.com/kr/app/id1624912168) | 
 [Repo](https://github.com/moonjs0113/MemojiCollector)
 레이 , 2022 Cohort
+
+Persona Book [App](https://apps.apple.com/us/app/페르소나-북/id1625439426) |
+[Repo](https://github.com/pagh2322/personality_memo_book)
+디기 , 2022 Cohort
 <!--
 
 **Here are some ideas to get you started:**
