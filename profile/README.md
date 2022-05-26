@@ -27,7 +27,7 @@ Persona Book [App](https://apps.apple.com/us/app/페르소나-북/id1625439426) 
 [Repo](https://github.com/pagh2322/personality_memo_book)
 디기 , 2022 Cohort
 
-Wavey [App](https://apps.apple.com/kr/app/wavey/id1625809848) 도도, 2022 Cohort
+Wavey [App](https://apps.apple.com/kr/app/wavey/id1625809848) | 도도, 2022 Cohort
 <!--
 
 **Here are some ideas to get you started:**
