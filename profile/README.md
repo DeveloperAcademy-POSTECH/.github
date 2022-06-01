@@ -28,13 +28,9 @@ Persona Book [App](https://apps.apple.com/us/app/페르소나-북/id1625439426) 
 디기 , 2022 Cohort
 
 Wavey [App](https://apps.apple.com/kr/app/wavey/id1625809848) 도도, 2022 Cohort
-<!--
 
-**Here are some ideas to get you started:**
+Dino Puzzling [App](https://apps.apple.com/kr/app/dino-puzzling/id1626649817) 디기 , 2022 Cohort
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
