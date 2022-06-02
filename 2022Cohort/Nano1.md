@@ -70,7 +70,7 @@
 * 에반 : [Re cital](https://github.com/eraser3031/Recital)
 * 엘리 : [One by One](https://github.com/JMM00/ios-NC1-OneByOne.git) 영화대사로 영어공부하기
 * 오션 : [NC1](https://github.com/hurdasol98/NC1_Ocean.git)
-* 우디 : [포스밀](https://github.com/insub4067/NanoChallenge1-Afternoon-Woody-POSMEAL) [포항공대 학식 메뉴 알림 앱]
+* 우디 : [포스밀](https://github.com/insub4067/NanoChallenge1-Afternoon-Woody-POSMEAL) [포항공대 학식 메뉴 알림 앱]
 * 융식 : [Gitstudy](https://github.com/YunSeok-Choi/StudyGit)
 * 저니 : [도망가](https://github.com/gojeongseog/RunAway)
 * 제다이 : [학교종이 땡땡땡](https://github.com/shwoghk14/BreakTime)
