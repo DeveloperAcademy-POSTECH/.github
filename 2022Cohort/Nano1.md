@@ -67,6 +67,7 @@
 * 스티브 : [CHAT:MO](https://github.com/myungjinsim/ios-NC1-CHATMO)
 * 스템 : [Recipe](https://github.com/stemmmm/recipe-nc1)
 * 쏘이 : [Remember](https://github.com/JIWON1923/Remember)
+* 안나 : [AB 테스트 앱] (https://github.com/Eunbi-Cho/AB.git)
 * 안토니 : [스위프트 튜토리얼앱](https://github.com/jsh9611/SwiftTutorialApp)
 * 에반 : [Re cital](https://github.com/eraser3031/Recital)
 * 엘리 : [One by One](https://github.com/JMM00/ios-NC1-OneByOne.git) 영화대사로 영어공부하기
