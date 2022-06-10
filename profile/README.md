@@ -37,7 +37,7 @@ Wavey [App](https://apps.apple.com/kr/app/wavey/id1625809848) 도도, 2022 Cohor
 
 Dino Puzzling [App](https://apps.apple.com/kr/app/dino-puzzling/id1626649817) 디기 , 2022 Cohort
 
-금연파이터 [App](https://apps.apple.com/kr/app/금연파이터/id1625868653) 창브로, 2022 Cohort
+금연파이터 [App](https://apps.apple.com/kr/app/금연파이터/id1625868653) | [Repo](https://github.com/LeeChangHyeong/StopSmokingStandard) 창브로, 2022 Cohort
 
 AzitQRCode [App](https://apps.apple.com/kr/app/azitqrcode/id1625920012) | [Repo](https://github.com/DeveloperAcademy-POSTECH/AzitQRCode) 토비, 2022 Cohort
 
