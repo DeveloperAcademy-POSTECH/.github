@@ -43,3 +43,5 @@ Be [App](https://apps.apple.com/kr/app/be/id1622128837) 코비, 2022 Cohort
 Wavey [App](https://apps.apple.com/kr/app/wavey/id1625809848) 도도, 2022 Cohort
 
 Dino Puzzling [App](https://apps.apple.com/kr/app/dino-puzzling/id1626649817) 디기 , 2022 Cohort
+
+NearCat:ch [App](https://apps.apple.com/kr/app/nearcat-ch/id1630219872) | [Repo](https://github.com/DeveloperAcademy-POSTECH/MC2-Team13-NearCatch) 로운, 마이즈, 민초, 빅썬, 에반, 혀키, 2022 Cohort MC2
