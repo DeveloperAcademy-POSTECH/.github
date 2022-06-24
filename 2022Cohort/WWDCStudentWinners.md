@@ -6,8 +6,9 @@
  * [Dani](https://github.com/Minkyeong-Ko)(고민경) [FreeBoard](https://github.com/Minkyeong-Ko/Freeboard)
  * [Badger](https://github.com/Byeonjinha)(변진하) [CooC](https://github.com/Byeonjinha/CooC)
  * [Anna](https://github.com/Eunbi-Cho)(조은비) [Feel the](https://github.com/Eunbi-Cho/Feel-the.git)
- * [Wonny](https://github.com/wonny1012)(권지원) Zoochestra
- * [Taek](https://github.com/TaekH)(한택환) [Medicine Reminder]()
- * Coin(이주화) Hangeul
+
+ * [Taek](https://github.com/TaekH)(한택환) Medicine Reminder
  * [PecanPie](https://github.com/PecanPiePOS)(심규보) Spot Color Blindness
  * [Avery](https://github.com/chaneeii)(정찬희) What'sPII
+ * [Wonny](https://github.com/wonny1012)(권지원) Zoochestra
+ * Coin(이주화) Hangeul
