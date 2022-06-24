@@ -30,6 +30,7 @@
 * 콜리 : [Musiccoli](https://github.com/SohyeonKim-dev/Musiccoli_App)
 * 케미 : [Chemi's Dev Note](https://github.com/MMMIIIN/SwiftUIGuideBook)
 * 켈리 : [Kelly's](https://github.com/Kelly-Chui/NC1-Kellys)
+* 태니 : [Scrapbook](https://github.com/taehyeonk/Nano-Challenge-1)
 * 포딩 : [AGit](https://github.com/Yeongwoo-Poding/AGit) 아카데미 러너들의 공부 시간을 확인하는 앱
 * 닉 : [어쩔세탁(Laundry-tips)](https://github.com/tea-hkim/Laundry-tips)
 * 호종이 : [Gesture Study](https://github.com/HoJongPARK/Gesture-Study)
