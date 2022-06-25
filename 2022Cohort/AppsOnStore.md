@@ -14,6 +14,9 @@ PocketCaddie [App](https://apps.apple.com/kr/app/pocketcaddie/id1630139569) | [R
 
 HomeToGather [App](https://apps.apple.com/kr/app/hometogather/id1628734751) | [Repo](https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-HomeToGather) , 레드/LED, 디박/D-park, 앨리스/Alice, 디노/Dino, 해츨링/Hatchling, 제이든/Jayden, 져니/Journey , 2022 Cohort MC2
 
+Hydden [App](https://apps.apple.com/kr/app/hydden/id1629910842) | [Repo](https://github.com/DeveloperAcademy-POSTECH/MC2-Team1-HwasungCompany) , 베테브/Bethev, 디기/Digi, 엘리제/EllyJ, 에버렛/Everett, 랑/
+rang, 소피/Sophie, 우디/Woody , 2022 Cohort MC2
+
 ### Nano Challenge
 
 제스처 스터디 [App](https://apps.apple.com/kr/app/gesture-study/id1622544534) | 
