@@ -6,7 +6,7 @@ Hydden [App](https://apps.apple.com/kr/app/hydden/id1629910842) | [Repo](https:/
 
 POMPOM [App](https://apps.apple.com/kr/app/pompom-%EB%82%B4%EC%9D%BC-%EB%AD%90-%EC%9E%85%EA%B3%A0%EC%99%80/id1630650939) | [Repo](https://github.com/DeveloperAcademy-POSTECH/MC2-Team4-POMPOM) 티모/Timo, 제니/Jeni, 다나/Dana, 펠릭스/Felix, 루크/Luke, 건/Gun , 2022 Cohort MC2
 
-NearCat:ch [App](https://apps.apple.com/kr/app/nearcat-ch/id1630219872) | [Repo](https://github.com/DeveloperAcademy-POSTECH/MC2-Team13-NearCatch) 로운, 마이즈, 민초, 빅썬, 에반, 혀키, 2022 Cohort MC2
+NearCat:ch [App](https://apps.apple.com/kr/app/nearcat-ch/id1630219872) | [Repo](https://github.com/DeveloperAcademy-POSTECH/MC2-Team13-NearCatch) 로운/Lawn, 마이즈/Mize, 민초/Mincho, 빅썬/BigSun, 에반/Evan, 혀키/Hyukey, 2022 Cohort MC2
 
 Cleanny [App](https://apps.apple.com/kr/app/cleanny/id1630640491) | [Repo](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-Cleanny) 네이스/Neis, 엘리/Elie, 주주/Juju, 쿠키/Cookie, 할로겐/Halogen, 치콩/Chikong, 2022 Cohort MC2
 
