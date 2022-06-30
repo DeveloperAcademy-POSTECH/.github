@@ -1,5 +1,5 @@
 ## Apps On Store
-
+****
 ### Mini Challenge
 
 **꽈당** [```App```](https://apps.apple.com/app/%EA%BD%88%EB%8B%B9/id1631873898)  | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team5-Ggwadang) 안토니/Antony, 초이/Choi, 이브/Eve, 그린/Green, 혹서/Hoaxer, 레이븐/Raven, `2022 Cohort MC2`
@@ -16,6 +16,7 @@
 
 **HomeToGather** [```App```](https://apps.apple.com/kr/app/hometogather/id1628734751) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-HomeToGather) , 레드/LED, 디박/D-park, 앨리스/Alice, 디노/Dino, 해츨링/Hatchling, 제이든/Jayden, 져니/Journey , `2022 Cohort MC2`
 
+****
 ### Nano Challenge
 
 **제스처 스터디** [```App```](https://apps.apple.com/kr/app/gesture-study/id1622544534) | 
@@ -24,9 +25,10 @@
 
 **NTime** [```App```](https://apps.apple.com/kr/app/ntime/id1625231450) 엘리제 , `2022 Cohort NC1`
 
+****
 ### Group Challenge
 
-
+****
 ### Personal Challenge
 
 **포스밀** [```App```](https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%EB%B0%80/id1622795136) | 
