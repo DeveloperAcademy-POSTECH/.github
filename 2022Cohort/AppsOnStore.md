@@ -54,3 +54,5 @@
 **Wavey** [```App```](https://apps.apple.com/kr/app/wavey/id1625809848) 도도, `2022 Cohort`
 
 **Dino Puzzling** [```App```](https://apps.apple.com/kr/app/dino-puzzling/id1626649817) 디기 , `2022 Cohort`
+
+**Hangeul Puzzle** [```App```](https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en) | [```Repo```](https://github.com/Juhwa-Lee1023/Hangeul) 코인, `2022 Cohort`
