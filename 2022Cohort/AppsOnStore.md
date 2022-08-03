@@ -16,6 +16,9 @@
 
 **HomeToGather** [```App```](https://apps.apple.com/kr/app/hometogather/id1628734751) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-HomeToGather) , 레드/LED, 디박/D-park, 앨리스/Alice, 디노/Dino, 해츨링/Hatchling, 제이든/Jayden, 져니/Journey , `2022 Cohort MC2`
 
+**HangulKing** [```App```](https://apps.apple.com/kr/app/hangulking/id1637450662?l=en) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team12-HangulKing) , 그린/Green, 코인/Coin, 소피/Sophie, 레티샤/Leticia, 루이/Louie , `2022 Cohort MC3`
+
+
 ****
 ### Nano Challenge
 
