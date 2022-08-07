@@ -9,6 +9,6 @@
 
  * [Taek](https://github.com/TaekH)(한택환) Medicine Reminder
  * [PecanPie](https://github.com/PecanPiePOS)(심규보) Spot Color Blindness
- * [Avery](https://github.com/chaneeii)(정찬희) What'sPII
+ * [Avery](https://github.com/chaneeii)(정찬희) [What'sPII](https://github.com/chaneeii/WWDC22_WhatsPII)
  * [Wonny](https://github.com/wonny1012)(권지원) Zoochestra
  * [Coin](https://github.com/wonny1012)(이주화) [Hangeul](https://github.com/Juhwa-Lee1023/Hangeul) [Store](https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en) 
