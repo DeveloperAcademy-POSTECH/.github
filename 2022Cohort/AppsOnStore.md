@@ -16,7 +16,21 @@
 
 **HomeToGather** [```App```](https://apps.apple.com/kr/app/hometogather/id1628734751) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team2-HomeToGather) , 레드/LED, 디박/D-park, 앨리스/Alice, 디노/Dino, 해츨링/Hatchling, 제이든/Jayden, 져니/Journey , `2022 Cohort MC2`
 
+**Req** [```App```](https://apps.apple.com/kr/app/req/id1631952369) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM) 커리/Curry, 미쯔/Mizz, 산/San, 데이비드/David, 토비/Toby, 사샤/Sasha , `2022 Cohort MC2`
+
 **HangulKing** [```App```](https://apps.apple.com/kr/app/hangulking/id1637450662?l=en) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team12-HangulKing) , 그린/Green, 코인/Coin, 소피/Sophie, 레티샤/Leticia, 루이/Louie , `2022 Cohort MC3`
+
+**리본 REBORN** [```App```](https://apps.apple.com/app/%EB%A6%AC%EB%B3%B8-reborn/id1637041855) 초이/Choi, 건/Gun, 스템/Stem, 디기/Digi, 케이/K , `2022 Cohort MC3`
+
+**대구 착한 가격** [```App```](https://apps.apple.com/kr/app/%EB%8C%80%EA%B5%AC-%EC%B0%A9%ED%95%9C-%EA%B0%80%EA%B2%A9/id1635261511) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-DaeguGoodPriceShop) 에코/Ekko, 스마일/Smile, 포딩/Poding, 켈리/Kelly, 요셉/Yo-Sep , `2022 Cohort MC3`
+
+**Apillog** [```App```](https://apps.apple.com/kr/app/apillog/id1636467512) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team2-APilLog) 레드/LED, 준/Jun, 쏘이/soi, 도도/Dodo, 예니/Yeni, 쿠키/Cookie , `2022 Cohort MC3`
+
+**가보자고:GBZG** [```App```](https://apps.apple.com/kr/app/%EA%B0%80%EB%B3%B4%EC%9E%90%EA%B3%A0-gbzg/id1637050690) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3_TEAM1_LATER) 홍기/Hongki, 티모/Timo, 테오/Theo, 혀키/Hyukey, 로미/Romi, 스티브/Steve , `2022 Cohort MC3`
+
+**TalTal** [```App```](https://apps.apple.com/kr/app/taltal/id1637629943?l=en) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3_Team10_TalTal) 토비/Toby, 펠릭스/Felix, 꼬마/Kkoma, 준/Joon, 류하/RuyHa , `2022 Cohort MC3`
+
+**Dear** [```App```](https://apps.apple.com/kr/app/dear/id1637404656) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team16-SoonDoongBoo) 데일/Dale, 제시카/jessica, 엘리/Elie, 라우/Lau, 제이든/Jayden, 민초/Mincho , `2022 Cohort MC3`
 
 
 ****
@@ -30,6 +44,8 @@
 
 ****
 ### Group Challenge
+**Real Punch** [```App```](https://apps.apple.com/kr/app/real-punch/id1636187292) 창브로 네이스 커리 베테브 혀키 치콩
+
 
 ****
 ### Personal Challenge
@@ -59,3 +75,15 @@
 **Dino Puzzling** [```App```](https://apps.apple.com/kr/app/dino-puzzling/id1626649817) 디기 , `2022 Cohort`
 
 **Hangeul Puzzle** [```App```](https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en) | [```Repo```](https://github.com/Juhwa-Lee1023/Hangeul) 코인, `2022 Cohort`
+
+**미달이** [```App```](https://apps.apple.com/kr/app/%EB%AF%B8%EB%8B%AC%EC%9D%B4/id1632200466) K , `2022 Cohort`
+
+**LEQUIEM: Overture** [```App```](https://apps.apple.com/kr/app/lequiem-overture/id1632011782)  EllyJ , `2022 Cohort`
+
+**SimpleToDoApp** [```App```](https://apps.apple.com/kr/app/simpletodoapp/id1636902613) Jessica , `2022 Cohort`
+
+**찾아라 동물친구들** [```App```](https://apps.apple.com/app/%EC%B0%BE%EC%95%84%EB%9D%BC-%EB%8F%99%EB%AC%BC-%EC%B9%9C%EA%B5%AC%EB%93%A4/id1637035482) Badger , `2022 Cohort`
+
+**Time to Surf** [```App```](https://apps.apple.com/kr/app/time-to-surf/id1636290938) Drogba , `2022 Cohort`
+
+
