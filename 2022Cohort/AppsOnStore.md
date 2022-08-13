@@ -32,6 +32,7 @@
 
 **Dear** [```App```](https://apps.apple.com/kr/app/dear/id1637404656) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team16-SoonDoongBoo) 데일/Dale, 제시카/jessica, 엘리/Elie, 라우/Lau, 제이든/Jayden, 민초/Mincho , `2022 Cohort MC3`
 
+**TanTan** [```App```](https://apps.apple.com/kr/app/%ED%83%84%ED%83%84-tantan/id1637676314) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/Bingha) 할로겐/Halogen, 테리/Terry, 빅썬/bigSun, 이브/Eve, 커리/Curry , `2022 Cohort MC3`
 
 ****
 ### Nano Challenge
