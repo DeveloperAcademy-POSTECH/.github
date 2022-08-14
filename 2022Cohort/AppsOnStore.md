@@ -18,6 +18,7 @@
 
 **Req** [```App```](https://apps.apple.com/kr/app/req/id1631952369) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM) 커리/Curry, 미쯔/Mizz, 산/San, 데이비드/David, 토비/Toby, 사샤/Sasha , `2022 Cohort MC2`
 
+
 **HangulKing** [```App```](https://apps.apple.com/kr/app/hangulking/id1637450662?l=en) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team12-HangulKing) , 그린/Green, 코인/Coin, 소피/Sophie, 레티샤/Leticia, 루이/Louie , `2022 Cohort MC3`
 
 **리본 REBORN** [```App```](https://apps.apple.com/app/%EB%A6%AC%EB%B3%B8-reborn/id1637041855) 초이/Choi, 건/Gun, 스템/Stem, 디기/Digi, 케이/K , `2022 Cohort MC3`
@@ -45,7 +46,7 @@
 
 ****
 ### Group Challenge
-**Real Punch** [```App```](https://apps.apple.com/kr/app/real-punch/id1636187292) 창브로 네이스 커리 베테브 혀키 치콩
+**Real Punch** [```App```](https://apps.apple.com/kr/app/real-punch/id1636187292) 창브로 네이스 커리 베테브 혀키 치콩 `2022 Cohort 해커톤`
 
 
 ****
