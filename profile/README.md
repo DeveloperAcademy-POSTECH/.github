@@ -10,7 +10,7 @@
  
  * [Mini Challenge 3](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/minichallenge3_2022) 6월 27일 ~ 8월 5일.
  
- * [Nano Challenge 2] 8월 22일 ~ 9월 2일
+ * [Nano Challenge 2](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2022Cohort/Nano2.md) 8월 22일 ~ 9월 2일
 
  * [Student Winner 11](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2022Cohort/WWDCStudentWinners.md)
 
