@@ -25,7 +25,7 @@
 * 우디 : 
 * 윌 : 
 * 유니스: 
-* 유스 : 
+* 유스 : [이 안에 너...있다](https://github.com/kimscastle/Nano_Challenge_1) - Nano_Challenge_2폴더
 * 이드 : 
 * 잭 : 
 * 콜리 : 
