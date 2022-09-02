@@ -56,7 +56,7 @@
 * 레드 : 
 * 레이먼드 : 
 * 레티샤 : 
-* 로빈 : 
+* 로빈 : [FancyCamera](https://github.com/minjae9610/FancyCamera)
 * 루이 : 
 * 루크 : 
 * 류하 : 
