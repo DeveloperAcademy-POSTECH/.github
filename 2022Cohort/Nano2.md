@@ -49,7 +49,7 @@
 * 니버 : 
 * 데이비드 : 
 * 드록바 : 
-* 디기 : 
+* 디기 : [Throwing Banana](https://github.com/pagh2322/ARKit_Game)
 * 디박 : 
 * 라우 : 
 * 랑 : 
