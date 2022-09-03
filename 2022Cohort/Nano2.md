@@ -2,7 +2,7 @@
 ## 오전반
 ### 가나다순
 
-* 고반 : [AppName](https://github.com/)
+* 고반 : [MenuCatcher](https://github.com/Gobans/NC2_MenuCatcher)
 * 닉 : 
 * 도피 : 
 * 듀나 : 
