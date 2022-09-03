@@ -35,6 +35,7 @@
 * 포딩 : 
 * 닉 : 
 * 호종이 : 
+* 규 : [도망칠 생각](https://github.com/kyustudyo/zombie_run_game)
 
 
 
