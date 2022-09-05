@@ -45,7 +45,7 @@
 * 건 : 
 * 그린 : 
 * 공돌 : 
-* 네이스 : [How Old I Am](https://github.com/JungYunseong/NC2-Neis-AgeEstimation)
+* 네이스 : [How Old Am I](https://github.com/JungYunseong/NC2-Neis-AgeEstimation)
 * 니아 : 
 * 니버 : 
 * 데이비드 : 
