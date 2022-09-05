@@ -76,6 +76,7 @@
 * 안토니 : 
 * 에반 : 
 * 엘리 : 
+* 엘리제. : [AGUAGU](https://github.com/jeong-hyeonHwang/AGUAGU)
 * 오션 : 
 * 우디 : 
 * 융식 : 
