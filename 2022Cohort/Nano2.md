@@ -55,7 +55,7 @@
 * 라우 : 
 * 랑 : 
 * 레드 : 
-* 레이먼드 : [RealtimeStyleTransfer](https://github.com/DeveloperAcademy-POSTECH/RealtimeStyleTransfer.git)
+* 레이먼드 : [RealtimeStyleTransfer](https://github.com/DeveloperAcademy-POSTECH/NC2_RealtimeStyleTransfer.git)
 * 레티샤 : 
 * 로빈 : [FancyCamera](https://github.com/minjae9610/FancyCamera)
 * 루이 : 
