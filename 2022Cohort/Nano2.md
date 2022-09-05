@@ -28,7 +28,7 @@
 * 유스 : [이 안에 너...있다](https://github.com/kimscastle/Nano_Challenge_1) - Nano_Challenge_2폴더
 * 이드 : 
 * 잭 : 
-* 콜리 : 
+* 콜리 : [Textinit](https://github.com/SohyeonKim-dev/Textinit/)
 * 케미 : 
 * 켈리 : 
 * 태니 : 
