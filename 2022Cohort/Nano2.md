@@ -14,6 +14,7 @@
 * 밀러 : 
 * 브라운 : 
 * 사이먼 : 
+* 스누피 : [HandSignChecker for meeting](https://github.com/skycat0212/NanoChanllenge2)
 * 아보 : 
 * 알로라 : 
 * 에디 : 
