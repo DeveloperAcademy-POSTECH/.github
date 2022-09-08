@@ -91,7 +91,7 @@
 
 **KnockKnock** [```App```](https://apps.apple.com/kr/app/knock/id1637222109) | [```Repo```](https://github.com/coby5502/KnockKnock.git) Coby , `2022 Cohort`
 
-**회고노트** [```App```]([https://apps.apple.com/kr/app/knock/id1637222109](https://apps.apple.com/kr/app/%ED%9A%8C%EA%B3%A0-%EB%85%B8%ED%8A%B8/id1636183919) Seodam , `2022 Cohort`
+**회고노트** [```App```](https://apps.apple.com/kr/app/%ED%9A%8C%EA%B3%A0-%EB%85%B8%ED%8A%B8/id1636183919) Seodam , `2022 Cohort`
 
 
 
