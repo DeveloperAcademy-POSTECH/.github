@@ -84,7 +84,7 @@
 * 제다이 :
 * 제로 : 
 * 제시카 : 
-* 제이든 : 
+* 제이든 : [HOW EXCHANGE](https://github.com/jayden000106/NC2-HOW-EXCHANGE)
 * 지오 : 
 * 초이 : 
 * 치콩 : 
