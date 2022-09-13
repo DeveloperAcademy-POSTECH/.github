@@ -63,6 +63,7 @@
 * 루이 : 
 * 루크 : 
 * 류하 : 
+* 마이즈 : [리듬의 전당 (Hall of Rhythm)](https://github.com/DeveloperAcademy-POSTECH/NC2-Mize-HallofRhythm)
 * 민초 : 
 * 버킬 : 
 * 베테브 : 
