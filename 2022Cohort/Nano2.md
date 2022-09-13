@@ -50,6 +50,7 @@
 * 니아 : 
 * 니버 : 
 * 데이비드 : 
+* 도도 : [Big-Face](https://github.com/commitcomplete/Nano-BigFace)
 * 드록바 : 
 * 디기 : [Throwing Banana](https://github.com/pagh2322/ARKit_Game)
 * 디박 : 
