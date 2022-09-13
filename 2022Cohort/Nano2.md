@@ -92,7 +92,8 @@
 * 칼리 : 
 * 커리 : 
 * 코인 : 
-* 펠릭스 : 
+* 펠릭스 :
+* 테리 : [Simple Hand Pose](https://github.com/terry-koo/SimpleHandPose)
 * 테오 : 
 * 티나 : 
 * 티모 : 
