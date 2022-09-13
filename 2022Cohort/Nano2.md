@@ -38,6 +38,7 @@
 * 호종이 : 
 * 규 : [도망칠 생각](https://github.com/kyustudyo/zombie_run_game)
 * 레나 : [Music in Eyes](https://github.com/lenamin/MusicInEyes)
+* 베리 : 
 
 
 ## 오후반
