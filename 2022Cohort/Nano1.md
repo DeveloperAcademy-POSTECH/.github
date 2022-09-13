@@ -58,6 +58,7 @@
 * 루이 : [투닥투닥](https://github.com/100seo/nano-louie)
 * 루크 : [Make You Dance](https://github.com/Apple-Kong/MYD)
 * 류하 : [Math Quiz(미완)](https://github.com/RuyHa/4_miniChallenge)
+* 마이즈 : [Kart Dictionary(미완)](https://github.com/DeveloperAcademy-POSTECH/NC1-Mize-KartDictionary)
 * 민초 : [NewDictionary](https://github.com/uudquark/NewDictionary)
 * 버킬 : [DailyBuckil](https://github.com/Byeongsoo-Min/DailyBuckil)
 * 베테브 : [UIUX사고훈련](https://github.com/LEJMO/UIUX-thinking-training)
