@@ -21,7 +21,7 @@
 * 에이든 : 
 * 에이브리 : 
 * 에코 : 
-* 오즈 : 
+* 오즈 : [TextDifficultyLevelClassifier](https://github.com/glitterer/NC2-TextDifficultyLevelClassifier)
 * 우기 : 
 * 우디 : 
 * 윌 : 
