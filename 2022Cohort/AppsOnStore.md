@@ -18,6 +18,8 @@
 
 **Req** [```App```](https://apps.apple.com/kr/app/req/id1631952369) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM) 커리/Curry, 미쯔/Mizz, 산/San, 데이비드/David, 토비/Toby, 사샤/Sasha , `2022 Cohort MC2`
 
+**popopot** [```App```](https://apps.apple.com/kr/app/popopot/id1627015861) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team3-SSAK3) 아보, 제리, 조이, 요셉, 호종이, 레이몬드 , `2022 Cohort MC2`
+
 
 **HangulKing** [```App```](https://apps.apple.com/kr/app/hangulking/id1637450662?l=en) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team12-HangulKing) , 그린/Green, 코인/Coin, 소피/Sophie, 레티샤/Leticia, 루이/Louie , `2022 Cohort MC3`
 
@@ -35,6 +37,8 @@
 
 **TanTan** [```App```](https://apps.apple.com/kr/app/%ED%83%84%ED%83%84-tantan/id1637676314) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/Bingha) 할로겐/Halogen, 테리/Terry, 빅썬/bigSun, 이브/Eve, 커리/Curry , `2022 Cohort MC3`
 
+**밥먹언?** [```App```](https://apps.apple.com/kr/app/%EB%B0%A5%EB%A8%B9%EC%96%B8/id1640989562) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team3-Puhaha) 콜리/Coli, 우기/Woogy, 레나/Lena, 키/Key, 티모/Teemo , `2022 Cohort MC3`
+
 ****
 ### Nano Challenge
 
@@ -44,14 +48,24 @@
 
 **NTime** [```App```](https://apps.apple.com/kr/app/ntime/id1625231450) 엘리제 , `2022 Cohort NC1`
 
+**Big-Face** [```App```](https://apps.apple.com/kr/app/big-face/id1642758195) Dodo , `2022 Cohort NC2`
+
+**괴인측정기** [```App```](https://apps.apple.com/kr/app/%EA%B4%B4%EC%9D%B8-%EC%B8%A1%EC%A0%95%EA%B8%B0/id1642236144) Coby , `2022 Cohort NC2`
+
+**Textinit** [```App```](https://apps.apple.com/kr/app/textinit/id1642680639) Colli , `2022 Cohort NC2`
+
+**Fancy Camera** [```App```](https://apps.apple.com/kr/app/id1643460938) Robin , `2022 Cohort NC2`
+
+
+
 ****
-### Group Challenge
+### Group Project
 **Real Punch** [```App```](https://apps.apple.com/kr/app/real-punch/id1636187292) 창브로 네이스 커리 베테브 혀키 치콩 `2022 Cohort 해커톤`
 
-**Mapli** 
+**Mapli** [```App```](https://apps.apple.com/kr/app/mapli/id1640465875) 드록바 Woo0 라우
 
 ****
-### Personal Challenge
+### Personal Project
 
 **포스밀** [```App```](https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%EB%B0%80/id1622795136) | 
 [```Repo```](https://github.com/insub4067/POSMeal-POSTECH-Cafeteria-Menu-Widget-App-)
@@ -93,5 +107,6 @@
 
 **회고노트** [```App```](https://apps.apple.com/kr/app/%ED%9A%8C%EA%B3%A0-%EB%85%B8%ED%8A%B8/id1636183919) Seodam , `2022 Cohort`
 
+**cherish** [```App```](https://apps.apple.com/us/app/cherish/id1639908764) River , `2022 Cohort` , `WWDC2022 Student Challenege`
 
-
+**Destiny** [```App```](https://apps.apple.com/kr/app/destiny/id1636020104) Dodo , `2022 Cohort`
