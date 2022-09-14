@@ -3,15 +3,18 @@
 ### 가나다순
 
 * 고반 : [MenuCatcher](https://github.com/Gobans/NC2_MenuCatcher)
+* 규 : [도망칠 생각](https://github.com/kyustudyo/zombie_run_game)
 * 닉 : 
 * 도피 : 
 * 듀나 : 
+* 레나 : [Music in Eyes](https://github.com/lenamin/MusicInEyes)
 * 레이 : 
 * 레이몬드 : 
 * 리버 : 
 * 리오 : 
 * 미뉴 : 
 * 밀러 : 
+* 베리 : [Catch the word 3D](https://github.com/vveryberry/NC2-Catch-the-word-3D)
 * 브라운 : 
 * 사이먼 : 
 * 스누피 : [HandSignChecker for meeting](https://github.com/skycat0212/NanoChanllenge2)
@@ -36,9 +39,9 @@
 * 포딩 : 
 * 닉 : 
 * 호종이 : 
-* 규 : [도망칠 생각](https://github.com/kyustudyo/zombie_run_game)
-* 레나 : [Music in Eyes](https://github.com/lenamin/MusicInEyes)
-* 베리 : [Catch the word 3D] (https://github.com/vveryberry/NC2-Catch-the-word-3D)
+
+
+
 
 ## 오후반
 ### 가나다순
