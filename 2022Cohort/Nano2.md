@@ -78,7 +78,7 @@
 * 스템 : 
 * 쏘이 : 
 * 안나 : 
-* 안토니 : 
+* 안토니 : [Emotional Voice](https://github.com/jsh9611/HowDoesItSound)
 * 에반 : 
 * 엘리 : 
 * 엘리제. : [AGUAGU](https://github.com/jeong-hyeonHwang/AGUAGU)
