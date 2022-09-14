@@ -76,7 +76,7 @@
 * 송쿨 : 
 * 스티브 : 
 * 스템 : 
-* 쏘이 : 
+* 쏘이 : [이약 머약](https://github.com/JIWON1923/DetectMedicine) - detect medicine for visually impaired person
 * 안나 : 
 * 안토니 : [Emotional Voice](https://github.com/jsh9611/HowDoesItSound)
 * 에반 : 
