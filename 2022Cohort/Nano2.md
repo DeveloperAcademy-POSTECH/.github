@@ -37,7 +37,7 @@
 * 켈리 : 
 * 태니 : 
 * 포딩 : 
-* 닉 : 
+* 닉_8 : [이걸로 뭐 해먹지?](https://github.com/tea-hkim/whatDoUEat)
 * 호종이 : 
 
 
