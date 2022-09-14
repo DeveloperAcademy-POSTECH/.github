@@ -48,7 +48,7 @@
 
 * 건 : 
 * 그린 : 
-* 공돌 : 
+* 공돌 : [LiquorFinder](https://github.com/realmountain1129/LiquorFinder)
 * 네이스 : [How Old Am I](https://github.com/JungYunseong/NC2-Neis-AgeEstimation)
 * 니아 : 
 * 니버 : 
