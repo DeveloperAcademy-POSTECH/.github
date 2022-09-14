@@ -30,7 +30,7 @@
 * 윌 : 
 * 유니스: 
 * 유스 : [이 안에 너...있다](https://github.com/kimscastle/Nano_Challenge_1) - Nano_Challenge_2폴더
-* 이드 : 
+* 이드 : [SnoreDetector](https://github.com/DeveloperAcademy-POSTECH/NC2-SnoreDetector)
 * 잭 : 
 * 콜리 : [Textinit](https://github.com/SohyeonKim-dev/Textinit/)
 * 케미 : 
