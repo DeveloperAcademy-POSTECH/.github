@@ -28,7 +28,7 @@
 * 우기 : 
 * 우디 : 
 * 윌 : 
-* 유니스: 
+* 유니스: [LetterToEvent](https://github.com/EuniceNam/NC2-Eunice-LetterToEvent/blob/main/README.md) - 글씨를 기본 캘린더 일정으로
 * 유스 : [이 안에 너...있다](https://github.com/kimscastle/Nano_Challenge_1) - Nano_Challenge_2폴더
 * 이드 : [SnoreDetector](https://github.com/DeveloperAcademy-POSTECH/NC2-SnoreDetector)
 * 잭 : 
