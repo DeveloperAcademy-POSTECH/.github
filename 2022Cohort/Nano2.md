@@ -5,6 +5,7 @@
 * 고반 : [MenuCatcher](https://github.com/Gobans/NC2_MenuCatcher)
 * 규 : [도망칠 생각](https://github.com/kyustudyo/zombie_run_game)
 * 닉 : 
+* 데이크 : [Pseudostrabismus](https://github.com/ccdkk/NC2-Pseudostrabismus)
 * 도피 : 
 * 듀나 : 
 * 레나 : [Music in Eyes](https://github.com/lenamin/MusicInEyes)
