@@ -39,6 +39,8 @@
 
 **밥먹언?** [```App```](https://apps.apple.com/kr/app/%EB%B0%A5%EB%A8%B9%EC%96%B8/id1640989562) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team3-Puhaha) 콜리/Coli, 우기/Woogy, 레나/Lena, 키/Key, 티모/Teemo , `2022 Cohort MC3`
 
+**회의하는 N무새** [```App```](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659)| [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae) 유니스 / eunice, 닉 / Nick (taekimd22), 소니 / Sohni, 스킵 / Skipp, 우기 / Woogy, 코지 / Cozy, `2022 Cohort MC3`
+
 ****
 ### Nano Challenge
 
