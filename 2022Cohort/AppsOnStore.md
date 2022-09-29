@@ -20,6 +20,7 @@
 
 **popopot** [```App```](https://apps.apple.com/kr/app/popopot/id1627015861) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team3-SSAK3) 아보, 제리, 조이, 요셉, 호종이, 레이몬드 , `2022 Cohort MC2`
 
+**회의하는 N무새** [```App```](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659)| [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae) 유니스 / eunice, 닉 / Nick (taekimd22), 소니 / Sohni, 스킵 / Skipp, 우기 / Woogy, 코지 / Cozy, `2022 Cohort MC2`
 
 **HangulKing** [```App```](https://apps.apple.com/kr/app/hangulking/id1637450662?l=en) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team12-HangulKing) , 그린/Green, 코인/Coin, 소피/Sophie, 레티샤/Leticia, 루이/Louie , `2022 Cohort MC3`
 
@@ -38,8 +39,6 @@
 **TanTan** [```App```](https://apps.apple.com/kr/app/%ED%83%84%ED%83%84-tantan/id1637676314) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/Bingha) 할로겐/Halogen, 테리/Terry, 빅썬/bigSun, 이브/Eve, 커리/Curry , `2022 Cohort MC3`
 
 **밥먹언?** [```App```](https://apps.apple.com/kr/app/%EB%B0%A5%EB%A8%B9%EC%96%B8/id1640989562) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team3-Puhaha) 콜리/Coli, 우기/Woogy, 레나/Lena, 키/Key, 티모/Teemo , `2022 Cohort MC3`
-
-**회의하는 N무새** [```App```](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659)| [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae) 유니스 / eunice, 닉 / Nick (taekimd22), 소니 / Sohni, 스킵 / Skipp, 우기 / Woogy, 코지 / Cozy, `2022 Cohort MC2`
 
 **Sleepie** [```App```](https://apps.apple.com/kr/app/sleepie/id6443555386) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception) 닉 / Nick(김태호), 태니 / Tanny, 에이버리 / Avery, 밀리 / [milli](https://github.com/jinccc97), 너울 / Neoul, 알로라 / Alola, `2022 Cohort MC3`
 ****
