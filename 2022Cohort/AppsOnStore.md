@@ -58,14 +58,20 @@
 
 **Fancy Camera** [```App```](https://apps.apple.com/kr/app/id1643460938) Robin , `2022 Cohort NC2`
 
+**AGUAGU** [```App```](https://apps.apple.com/us/app/aguagu/id1642786388?uo=2) EllyJ , `2022 Cohort NC2`
+
+**Filog** [```App```](https://apps.apple.com/us/app/filog/id1643416960) Jio , `2022 Cohort NC2`
 
 
 ****
 ### Group Project
 **Real Punch** [```App```](https://apps.apple.com/kr/app/real-punch/id1636187292) 창브로 네이스 커리 베테브 혀키 치콩 `2022 Cohort 해커톤`
 
-**Mapli** [```App```](https://apps.apple.com/kr/app/mapli/id1640465875) 드록바 Woo0 라우
+**Mapli** [```App```](https://apps.apple.com/kr/app/mapli/id1640465875) 드록바 해츨링 라우
 
+**ADAM** [```App```](https://apps.apple.com/kr/app/adam/id1627961111) Jack , 
+
+**내가사마** [```App```](https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80%EC%82%AC%EB%A7%88/id6443425054) 창브로, 치콩, 에반, 칼리, 니아
 ****
 ### Personal Project
 
