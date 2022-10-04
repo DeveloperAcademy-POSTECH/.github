@@ -27,6 +27,7 @@
 * 유스 : [나작사(나만의작은사전)](https://github.com/kimscastle/Nano_Challenge_1)
 * 이드 : [Musicary](https://github.com/seongmin221/ADA_NC1_Musicary)
 * 잭 : [SwiftFalshCards](https://github.com/SeonJeon/SwiftFlashCards)
+* 제로 : [Today's Me](https://github.com/kelly1422/NC1_TodaysMe)
 * 콜리 : [Musiccoli](https://github.com/SohyeonKim-dev/Musiccoli_App)
 * 케미 : [Chemi's Dev Note](https://github.com/MMMIIIN/SwiftUIGuideBook)
 * 켈리 : [Kelly's](https://github.com/Kelly-Chui/NC1-Kellys)
