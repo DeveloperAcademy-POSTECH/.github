@@ -67,6 +67,13 @@
 
 **Filog** [```App```](https://apps.apple.com/us/app/filog/id1643416960) Jio , `2022 Cohort NC2`
 
+**꿈뻑이** [```App```](https://apps.apple.com/kr/app/%EA%BF%88%EB%BB%91%EC%9D%B4/id1643721237) Ian , `2022 Cohort NC2`
+
+**SolDoKu** [```App```](https://apps.apple.com/kr/app/soldoku/id6443436449) Coin , `2022 Cohort NC2`
+
+**Music in Eyes** [```App```](https://apps.apple.com/kr/app/music-in-eyes/id1643402478) Lena , `2022 Cohort NC2`
+
+
 
 ****
 ### Group Project
@@ -74,7 +81,7 @@
 
 **Mapli** [```App```](https://apps.apple.com/kr/app/mapli/id1640465875) 드록바 해츨링 라우
 
-**ADAM** [```App```](https://apps.apple.com/kr/app/adam/id1627961111) Jack , 
+**ADAM** [```App```](https://apps.apple.com/kr/app/adam/id1627961111) Jack , Noahsdaq , Taek , Poding , Max , Rinda
 
 **내가사마** [```App```](https://apps.apple.com/kr/app/%EB%82%B4%EA%B0%80%EC%82%AC%EB%A7%88/id6443425054) 창브로, 치콩, 에반, 칼리, 니아
 
@@ -82,7 +89,9 @@
 
 **빠지가까** [```App```](https://apps.apple.com/kr/app/%EB%B9%A0%EC%A7%80%EA%B0%80%EA%B9%8C/id6443720411) 커리 , 엘리제 , 미쯔 , 샤샤 , 산
 
-**돈워리** [```App```]([https://apps.apple.com/kr/app/%EB%B9%A0%EC%A7%80%EA%B0%80%EA%B9%8C/id6443720411) 애셔, 규, 유쓰, 우디, 챨리, 루미, 에이버리
+**돈워리** [```App```](https://apps.apple.com/kr/app/%EB%B9%A0%EC%A7%80%EA%B0%80%EA%B9%8C/id6443720411) 애셔, 규, 유쓰, 우디, 챨리, 루미, 에이버리
+
+**Kirim** [```App```](https://apps.apple.com/kr/app/kirim-clothes-for-weather/id6443530004?l=en) 다나, 지오
 
 ****
 ### Personal Project
