@@ -27,6 +27,8 @@
 
 **회의하는 N무새** [```App```](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659)| [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae) 유니스 / eunice, 닉 / Nick (taekimd22), 소니 / Sohni, 스킵 / Skipp, 우기 / Woogy, 코지 / Cozy, `2022 Cohort MC2`
 
+
+
 **HangulKing** [```App```](https://apps.apple.com/kr/app/hangulking/id1637450662?l=en) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team12-HangulKing) , 그린/Green, 코인/Coin, 소피/Sophie, 레티샤/Leticia, 루이/Louie , `2022 Cohort MC3`
 
 **리본 REBORN** [```App```](https://apps.apple.com/app/%EB%A6%AC%EB%B3%B8-reborn/id1637041855) 초이/Choi, 건/Gun, 스템/Stem, 디기/Digi, 케이/K , `2022 Cohort MC3`
@@ -46,6 +48,11 @@
 **밥먹언?** [```App```](https://apps.apple.com/kr/app/%EB%B0%A5%EB%A8%B9%EC%96%B8/id1640989562) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team3-Puhaha) 콜리/Coli, 우기/Woogy, 레나/Lena, 키/Key, 티모/Teemo , `2022 Cohort MC3`
 
 **Sleepie** [```App```](https://apps.apple.com/kr/app/sleepie/id6443555386) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception) 닉 / Nick(김태호), 태니 / Tanny, 에이버리 / Avery, 밀리 / [milli](https://github.com/jinccc97), 너울 / Neoul, 알로라 / Alola, `2022 Cohort MC3`
+
+
+
+
+
 ****
 ### Nano Challenge
 
@@ -73,7 +80,7 @@
 
 **Music in Eyes** [```App```](https://apps.apple.com/kr/app/music-in-eyes/id1643402478) Lena , `2022 Cohort NC2`
 
-
+**세줄 요약좀** [```App```](https://apps.apple.com/kr/app/%EC%84%B8%EC%A4%84-%EC%9A%94%EC%95%BD%EC%A2%80/id6443922663) Gun `2022 Cohort NC2`
 
 ****
 ### Group Project
@@ -92,6 +99,8 @@
 **돈워리** [```App```](https://apps.apple.com/kr/app/%EB%B9%A0%EC%A7%80%EA%B0%80%EA%B9%8C/id6443720411) 애셔, 규, 유쓰, 우디, 챨리, 루미, 에이버리
 
 **Kirim** [```App```](https://apps.apple.com/kr/app/kirim-clothes-for-weather/id6443530004?l=en) 다나, 지오
+
+**보카곰** [```App```](https://apps.apple.com/kr/app/%EB%B3%B4%EC%B9%B4%EA%B3%B0/id6443842237) 제로 , 준
 
 ****
 ### Personal Project
