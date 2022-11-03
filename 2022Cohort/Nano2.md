@@ -86,7 +86,7 @@
 * 오션 : 
 * 우디 : 
 * 융식 : 
-* 저니 : 
+* 저니 : [Smile-it](https://github.com/gojeongseog/Smile-it)
 * 제니 :
 * 제다이 :
 * 제로 : 
