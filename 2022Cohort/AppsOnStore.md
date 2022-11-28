@@ -3,7 +3,15 @@
 ****
 ### Macro Challenge
 
-**ZESTY** [```App```](https://apps.apple.com/app/id6443997570) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-ZESTY) 
+**ZESTY** [```App```](https://apps.apple.com/app/id6443997570) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-ZESTY) 에이버리 / Avery, 아보 / Avo, 고반 / Goban, 리아 / Lia, 민 / Min, 닉 / Nick, `2022 Cohort Macro`
+
+**NemoNemo** [```App```](https://apps.apple.com/kr/app/네모네모/id6444035444)) | [```Repo```](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO) 요셉/, 그리즐리/ ,노아/, 사이먼/, 켈리/, 티모/, 도피, `2022 Cohort Macro`
+
+**TDAA** [```App```](https://apps.apple.com/kr/app/트다-tdaa/id6443840961) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-TeamID-TDAA) 라우/, 산/, 드록바/, 헤츨링/, 칼리, `2022 Cohort Macro`
+
+**샘플로** [```App```](https://apps.apple.com/kr/app/샘플로/id6443837683) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-FourFour) [모니카_Monica](https://github.com/monic98), 밀리_Milli, [코지_Cozy](https://github.com/cozytk), [우기_Woogy](https://github.com/JIW00NG), [한스_Hans](https://github.com/HANS5109), [메이브_Maeve](https://github.com/mijinc), [다니_Dani](https://github.com/Minkyeong-Ko), [밀러_Miller](https://github.com/KimDaeSeong8721)) , `2022 Cohort Macro`
+
+
 
 ****
 ### Mini Challenge
