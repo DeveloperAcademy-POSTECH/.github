@@ -3,6 +3,7 @@
 ****
 ### Macro Challenge
 
+**ZESTY** [```App```](https://apps.apple.com/app/id6443997570) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-ZESTY) 
 
 ****
 ### Mini Challenge
