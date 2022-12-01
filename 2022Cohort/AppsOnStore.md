@@ -11,6 +11,7 @@
 
 **샘플로** [```App```](https://apps.apple.com/kr/app/샘플로/id6443837683) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-FourFour) [모니카_Monica](https://github.com/monic98), 밀리_Milli, [코지_Cozy](https://github.com/cozytk), [우기_Woogy](https://github.com/JIW00NG), [한스_Hans](https://github.com/HANS5109), [메이브_Maeve](https://github.com/mijinc), [다니_Dani](https://github.com/Minkyeong-Ko), [밀러_Miller](https://github.com/KimDaeSeong8721)) , `2022 Cohort Macro`
 
+**B.nomad** [```App```](https://apps.apple.com/kr/app/b-nomad/id6444038022) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-NoPower) 히로/, 은비/, 윌로우/, 케일리/, 랜스/, 윌/, 레브/, 진, `2022 Cohort Macro`
 
 
 ****
