@@ -13,6 +13,8 @@
 
 **B.nomad** [```App```](https://apps.apple.com/kr/app/b-nomad/id6444038022) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-NoPower) 히로/, 은비/, 윌로우/, 케일리/, 랜스/, 윌/, 레브/, 진, `2022 Cohort Macro`
 
+**오쿨로(oculo)** [```App```](https://apps.apple.com/kr/app/%EC%98%A4%EC%BF%A8%EB%A1%9C/id6444328351) | [```Repo```](https://github.com/ADA-1st-macro-walikngAssistant/WalkingAssistant_iOS) [Raymond](https://www.github.com/garlicvread) | [Gongdol](https://github.com/realmountain1129) | [Vihaan](https://github.com/hotsunnyday) | [Mizz](https://github.com/mizz0224) | [YungSix](https://github.com/YunSeok-Choi) | [MINCHO](https://github.com/Tempnixk) `2022 Cohort Macro`
+
 
 ****
 ### Mini Challenge
