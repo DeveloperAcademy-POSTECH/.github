@@ -39,7 +39,7 @@
 
 **회의하는 N무새** [```App```](https://apps.apple.com/kr/app/%ED%9A%8C%EC%9D%98%ED%95%98%EB%8A%94-n%EB%AC%B4%EC%83%88/id1644482659)| [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-MeetingNMusae) 유니스 / eunice, 닉 / Nick (taekimd22), 소니 / Sohni, 스킵 / Skipp, 우기 / Woogy, 코지 / Cozy, `2022 Cohort MC2`
 
-**꼬옥(Kkookk)** [```App```](https://apps.apple.com/kr/app/%EA%BC%AC%EC%98%A5/id1631273909) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team16-kko_okk) [Yeni](https://github.com/yeniful) / [Guell](https://github.com/Valentino1994) / [Raymond](https://github.com/garlicvread) / [Ruyha](https://github.com/RuyHa) / [Ian](https://github.com/LeeSungNo-ian) / [Seodam](https://github.com/seodam-hst), `2022 Cohort MC2`
+**꼬옥(Kkookk)** [```App```](https://apps.apple.com/kr/app/%EA%BC%AC%EC%98%A5/id1631273909) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MC2-Team16-kko_okk) [Yeni](https://github.com/yeniful) / [Guell](https://github.com/Valentino1994) / [Raymond](https://github.com/garlicvread) / [Ruyha](https://github.com/RuyHa) / [Ian](https://github.com/LeeSungNo-ian) / [Seodam](https://github.com/seodam-hst) `2022 Cohort MC2`
 
 <br>
 
