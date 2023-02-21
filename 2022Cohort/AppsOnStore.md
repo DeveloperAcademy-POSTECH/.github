@@ -15,6 +15,8 @@
 
 **오쿨로(oculo)** [```App```](https://apps.apple.com/kr/app/%EC%98%A4%EC%BF%A8%EB%A1%9C/id6444328351) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC_WalkingAssistant_iOS)) [Raymond](https://www.github.com/garlicvread) | [Gongdol](https://github.com/realmountain1129) | [Vihaan](https://github.com/hotsunnyday) | [Mizz](https://github.com/mizz0224) | [YungSix](https://github.com/YunSeok-Choi) | [MINCHO](https://github.com/Tempnixk) `2022 Cohort Macro`
 
+**ShortcutsZip** | [```App```](https://apps.apple.com/kr/app/shortcutszip/id6444001181) | [```Repo```](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-HappyAnding) | Elie, Green, Halogen, HongKi, Romi, Soi `2022 Cohort Macro`
+
 
 ****
 ### Mini Challenge
