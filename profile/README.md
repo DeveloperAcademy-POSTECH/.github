@@ -1,4 +1,4 @@
-## 애플 개발자 아카데미 @ 포스텍 입니다.
+## Apple Developer Academy @ POSTECH
 
 ### [Cohort 2023](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2023)
 
