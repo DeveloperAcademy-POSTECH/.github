@@ -1,5 +1,9 @@
 ## 애플 개발자 아카데미 @ 포스텍 입니다.
 
+### [Cohort 2023](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2023)
+
+ * **Mini Challenge 2** : 4월 10일 ~ 4월 19일. 6그룹 3팀 오전/오후
+
 ### [Cohort 2022](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2022)
  
  * [Mini Challenge 1](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/minichallenge1_2022) 3월 21일 ~ 4월 15일. 6그룹 3팀 오전/오후
