@@ -18,6 +18,6 @@
  
  * [Macro Challenge](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/macrochallenge_2022) 9월 13일 ~ 12월 2일
 
- * [Student Winner 11](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2022Cohort/WWDCStudentWinners.md)
+ * [WWDC Student Challenge Winners' project](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2022Cohort/WWDCStudentWinners.md)
 
  * [Apps on the App Store](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2022Cohort/AppsOnStore.md)
