@@ -2,7 +2,7 @@
 
 ### [Cohort 2023](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2023)
 
- * **[Mini Challenge 2](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/minichallenge2_2023)** : 4월 10일 ~ 5월 19일. 6그룹 3팀 오전/오후
+ * [Mini Challenge 2](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2023Cohort/MiniChallenge2.md) : 4월 10일 ~ 5월 19일. 6그룹 3팀 오전/오후
 
 ### [Cohort 2022](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2022)
  
