@@ -19,11 +19,11 @@
 > Mentor : Sup, [Lingo](https://github.com/lingostar), [Gommin](https://github.com/Joon-min)
 
 #### Team 4
-- 🔗 Repository
+- [🔗 Repository](https://github.com/chamroro/MC2-Team4-KKAMPPAK)
 - Member : Whaeun, Hani, Woozu, Rash, Walker, Dana
 
 #### Team 5
-- 🔗 Repository
+- [🔗 Repository](https://github.com/Oishikunare/DinoDIna)
 - Member : Uni, David Goggins, Eden, Dion, Kiyoung, Hannah
 
 #### Team 6 / Ppack
