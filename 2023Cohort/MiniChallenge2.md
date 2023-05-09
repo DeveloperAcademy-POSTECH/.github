@@ -1,9 +1,16 @@
-[🌞 Morning Session](#🌞-Morning-Session) | 🌝 Afternoon Session
----|---
-
-[🌝 Afternoon Session](#Afternoon-Session)
+<div class="pull-left">
+    Left Column(좌측 단)
+</div>
+<div class="pull-right">
+  [🌝 Afternoon Session](#Afternoon-Session)
+</div>
 
 [Group 1](#Group-1)
+
+[🌞 Morning Session](#🌞-Morning-Session) | [🌝 Afternoon Session](#Afternoon-Session)
+---|---
+
+
 
 ---
 
