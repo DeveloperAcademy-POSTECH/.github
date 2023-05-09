@@ -1,7 +1,7 @@
 [🌞 Morning Session](#🌞-Morning-Session) | 🌝 Afternoon Session
 ---|---
 
-[🌝 Afternoon Session](#🌝-Afternoon-Session)
+[🌝 Afternoon Session](#🌝Afternoon-Session)
 
 [Group 1](#Group-1)
 
@@ -105,7 +105,7 @@
 
 
 
-## 🌝 Afternoon Session
+## 🌝Afternoon Session
 
 ### Group 1
 > Mentor : Dora, [Jason](https://github.com/jsonpassion)
