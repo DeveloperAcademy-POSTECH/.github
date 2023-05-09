@@ -42,8 +42,8 @@
 - [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team10-AlphaCar)
 - Member : Bentley, Claudia, zett, Anne, Tyler, Seng
 
-#### Team 9
-- 🔗 Repository
+#### Team 9 / 하이오션
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2_HighOcean)
 - Member : Sol, Ocean, Aewol, Pine, Pado, Jen
 
 ### Group 4
