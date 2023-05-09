@@ -148,7 +148,7 @@
 > Mentor : [Judy](https://github.com/manju-minji), [Jiku](https://github.com/seuljiku)
 
 #### Team 10
-- 🔗 Repository
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team10-AlphaCar)
 - Member : noel, Joy, Madeline, Theo, Nova, BINU
 
 #### Team 11 / HYOZA
