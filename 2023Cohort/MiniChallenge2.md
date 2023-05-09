@@ -1,31 +1,94 @@
-## 오전
+## 🌞 Morning Session
 
-### 1그룹 ()
-1팀 [ProjectName](http://projectlink) (불망,라딘,사무엘,웨슬리,류)
-2팀 [ProjectName](http://projectlink) (배찌 루나 예나 무호 제이 웨스트)
-3팀 [ProjectName](http://projectlink) (니꼬 오션(여) 구찌 준 앤디 베리)
+### Group 1
+> Mentor : Dora, [Jason](https://github.com/jsonpassion)
 
-### 2그룹 ()
-4팀 [ProjectName](http://projectlink) (우주, 다나, 워커, 래쉬, 하니, 화은)
-5팀 [ProjectName](http://projectlink) (고긴스 ,디온, 이든, 우니, 해나, 기영)
-6팀 [ProjectName](http://projectlink) (산, 카일, 신디, 그레이스,  키위)
+#### Team 1
+- [🔗 Repository]()
+- Member : Bulmang, Samuel, Wesley, Radin, Ryu
 
-### 3그룹 ()
-7팀 [ProjectName](http://projectlink) (젤리빈 규니 용팔이 탐라 리아 라빈)
-8팀 [ProjectName](http://projectlink) (벤틀리 클라우디아 앤 승(Seng) 타일러 제트)
-9팀 [ProjectName](http://projectlink) (애월/Aewol 오션/Ocean 파도/Pado 솔/Sol 젠/Jen 파인/Pine)
+#### Team 2
+- [🔗 Repository]()
+- Member : Yena, Bazzi, Jay, West, Muho, Luna
 
-### 4그룹 ()
-10팀 [ProjectName](http://projectlink) (가온, 로이스, 수, 페페, 유빈, 올리버)
-11팀 [ProjectName](http://projectlink) (시즈 / 말티 / 플린 / 지니 / 퍼피)
-12팀 [ProjectName](http://projectlink) (테드 / 유진 / 산타 / 로키 / 오스틴)
+#### Team 3
+- [🔗 Repository]()
+- Member : 준Jun, Niko, Berry, Ocean, gucci, Andy
 
-### 5그룹 ()
-13팀 [ProjectName](http://projectlink) (Henry, Rubik, Claire, Jose, ZENA, Doris)
-14팀 [ProjectName](http://projectlink) (Lena, Diane, Kihyun, Heemoo, Molly, Marcus)
-15팀 [ProjectName](http://projectlink) (단, 릴리, 린, 리나, MK, 헨리)
+### Group 2
+> Mentor : Sup, [Lingo](https://github.com/lingostar), [Gommin](https://github.com/Joon-min)
 
-### 6그룹 ()
-16팀 [ProjectName](http://projectlink) (데이, 인트, 제레미, 조엘, 조이스, N.D)
-17팀 [ProjectName](http://projectlink) (조이, 헬리아, 뉴욕, 썬, 올리브, 애쉬)
-18팀 [ProjectName](http://projectlink) (커피, 채드, 레이, 피터(정), 피터(편), 제이)
+#### Team 4
+- [🔗 Repository]()
+- Member : Whaeun, Hani, Woozu, Rash, Walker, Dana
+
+#### Team 5
+- [🔗 Repository]()
+- Member : Uni, David Goggins, Eden, Dion, Kiyoung, Hannah
+
+#### Team 6
+- [🔗 Repository]()
+- Member : Kayle, Kiwi, Grace, Cindy, San
+
+### Group 3
+
+> Mentor : [Isaac](https://github.com/DevKang), [Daisy](https://github.com/sujinlee0616), Rinda
+
+#### Team 7
+- [🔗 Repository]()
+- Member : JellyBeen, Lia, Gyunni, Yong82, Lavine, Tamra
+
+#### Team 8
+- [🔗 Repository]()
+- Member : Bentley, Claudia, zett, Anne, Tyler, Seng
+
+#### Team 9
+- [🔗 Repository]()
+- Member : Sol, Ocean, Aewol, Pine, Pado, Jen
+
+### Group 4
+> Mentor : [Judy](https://github.com/manju-minji), [Jiku](https://github.com/seuljiku)
+
+#### Team 10
+- [🔗 Repository]()
+- Member : GAON, Oliver, pepe, Yubin, Royce, Su
+
+#### Team 11
+- [🔗 Repository]()
+- Member : Seez, Malty, Genie, Flynn, Puppy
+
+#### Team 12
+- [🔗 Repository]()
+- Member : Eugene, Austin, Loki, Santa, Ted
+
+
+### Group 5
+> Mentor : Saya, [Young](https://github.com/unnnyong)
+
+#### Team 13
+- [🔗 Repository]()
+- Member : Jose, Claire, Rubik, ZENA, Doris, Henry
+
+#### Team 14
+- [🔗 Repository]()
+- Member : Diane, Marcus, Kihyun, HeeMoo, Molly, Lena
+
+#### Team 15
+- [🔗 Repository]()
+- Member : Lina, Rin, Lily, Daaan, MK, Henry
+
+
+### Group 6
+> Mentor : [Leeo](https://github.com/M1zz), [Ian](https://github.com/LeeSungNo-ian)
+
+#### Team 16
+- [🔗 Repository]()
+- Member : N.D, Int, Day, Jeremy, Joel, Joyce
+
+#### Team 17
+- [🔗 Repository]()
+- Member : Helia, Ash, Sun, NewYork, Joy, Olive
+
+#### Team 18
+- [🔗 Repository]()
+- Member : Rei, Chad, Jay, Coffee, Peter, Peter
