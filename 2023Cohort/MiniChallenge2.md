@@ -1,7 +1,7 @@
 [🌞 Morning Session](#🌞-Morning-Session) | 🌝 Afternoon Session
 ---|---
 
-[🌞 Morning Session](#🌞-Morning-Session)
+[🌝 Afternoon Session](#🌝-Afternoon-Session)
 
 [Group 1](#Group-1)
 
