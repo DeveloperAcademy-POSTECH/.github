@@ -39,7 +39,7 @@
 - Member : Whaeun, Hani, Woozu, Rash, Walker, Dana
 
 #### Team 5
-- 🔗 Repository
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team5-DragonKitchen)
 - Member : Uni, David Goggins, Eden, Dion, Kiyoung, Hannah
 
 #### Team 6 / Ppack
