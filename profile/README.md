@@ -1,5 +1,7 @@
 # Apple Developer Academy @ POSTECH
 
+Welcome to Deveoloper Academy !
+
 - [Cohort 2023](#Cohort-2023)
 - [Cohort 2022](#Cohort-2022)
 
