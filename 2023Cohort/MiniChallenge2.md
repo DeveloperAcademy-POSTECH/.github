@@ -54,8 +54,8 @@
 - [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team7-Fighring)
 - Member : JellyBeen, Lia, Gyunni, Yong82, Lavine, Tamra
 
-#### Team 8 / 알파카
-- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team10-AlphaCar)
+#### Team 8 / 타일러키우기
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2_Team8_ChagokChagok)
 - Member : Bentley, Claudia, zett, Anne, Tyler, Seng
 
 #### Team 9 / 하이오션
