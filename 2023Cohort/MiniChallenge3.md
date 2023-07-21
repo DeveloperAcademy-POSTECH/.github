@@ -9,30 +9,30 @@
 > Mentor : Jiku, Leeo
 
 #### Team 1 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team1)
 - Member : 
 
 #### Team 2 /
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team2-OU)
 - Member : 
 
 #### Team 3 /
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team3-GrayMa)
 - Member : 
 
 ### Group 2
 > Mentor : Isaac, Daisy, Saya
 
 #### Team 4
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3_Uniuni)
 - Member : 
 
 #### Team 5
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team5-Mondee)
 - Member : 
 
 #### Team 6 /
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/mc3-team6-nspu)
 - Member :
 
 ### Group 3
@@ -47,7 +47,7 @@
 - Member : 
 
 #### Team 9 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team9-F4)
 - Member : 
 
 ### Group 4
@@ -70,7 +70,7 @@
 > Mentor : Lingo, Dora, Ian
 
 #### Team 13
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-RUN)
 - Member : 
 
 #### Team 14 /
@@ -78,7 +78,7 @@
 - Member : 
 
 #### Team 15 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-RockStars)
 - Member : 
 
 
@@ -86,15 +86,15 @@
 > Mentor : Jason, Rinda
 
 #### Team 16
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team16-QAQA)
 - Member : 
 
-#### Team 17 / ForJOY
-- [🔗 Repository]()
+#### Team 17 /
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team17-ForJaeRin)
 - Member : 
 
-#### Team 18 / SungHozaza
-- [🔗 Repository]()
+#### Team 18 /
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3_Team18_Ewook-IDLE)
 - Member : 
 
 ---
@@ -105,7 +105,7 @@
 > Mentor : Jiku, Leeo
 
 #### Team 1 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team1-SixTech)
 - Member : 
 
 #### Team 2 /
@@ -113,7 +113,7 @@
 - Member : 
 
 #### Team 3 /
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team3-DaejeonPeople)
 - Member : 
 
 ### Group 2
@@ -124,26 +124,26 @@
 - Member : 
 
 #### Team 5
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team5-CleanArea)
 - Member : 
 
 #### Team 6 /
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team6-MutekiNoIdoruPricura)
 - Member :
 
 ### Group 3
 > Mentor : Judy, Gommin
 
 #### Team 7 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-A-Team7)
 - Member : 
 
 #### Team 8 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-Aing)
 - Member : 
 
 #### Team 9 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team9-BALANCEIAGA)
 - Member : 
 
 ### Group 4
@@ -166,15 +166,15 @@
 > Mentor : Lingo, Dora, Ian
 
 #### Team 13
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13)
 - Member : 
 
 #### Team 14 /
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-TEAM14-ppolrolro)
 - Member : 
 
 #### Team 15 / 
-- [🔗 Repository]()
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-G5T15-DreamEgg)
 - Member : 
 
 
@@ -185,10 +185,10 @@
 - [🔗 Repository]()
 - Member : 
 
-#### Team 17 / ForJOY
-- [🔗 Repository]()
+#### Team 17 /
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team17-Modera)
 - Member : 
 
-#### Team 18 / SungHozaza
+#### Team 18 /
 - [🔗 Repository]()
 - Member : 
