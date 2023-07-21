@@ -12,6 +12,7 @@ Welcome to Deveoloper Academy !
 Challenge|Period|Teams
 ---|---|---
 [Mini Challenge 2](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2023Cohort/MiniChallenge2.md)|4월 10일 ~ 5월 19일| 6 Groups (1Group = 3 Teams)</br>Morning Session/Afternoon session
+[Mini Challenge 3](https://github.com/DeveloperAcademy-POSTECH/.github/blob/main/2023Cohort/MiniChallenge3.md)|6월 19일 ~ 8월 4일| 6 Groups (1Group = 3 Teams)</br>Morning Session/Afternoon session
 
 ## [Cohort 2022](https://github.com/orgs/DeveloperAcademy-POSTECH/teams/cohort2022)
  
