@@ -217,7 +217,7 @@
 
 #### Team 16
 > 멀리 떨어져있어도 심장소리를 느끼게 해주자(연인사이).
-- 🔗 Repository
+- [🔗 Repository](https://github.com/MC3-Team16-Na3ver/watch-you)
 - Member : 지니(Jinnie), 씬디(Cyndi), 에릭(Eric) 송지혁, 예림(yerimee), 에렌(Eren), 제이(Jay)
 
 #### Team 17 /
