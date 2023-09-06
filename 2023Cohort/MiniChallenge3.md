@@ -104,7 +104,7 @@
 #### Team 16
 > iOS -  맴버들이 서로를 궁금해하고, 공감할 수 있는 질문을 통해 자연스러운 아이스브레이킹을 유도하는 앱
 - [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC3-Team16-QAQA)
-- Member : 기영(Kiyoung), 끌라우(Claudia), 몰리(Molly), 웨스트(West), 플린(Flynn), 조이 조한동(Joy)
+- Member : 기영(Kiyoung), 끌라우(Claudia), 몰리(Molly), 웨스트(West), 플린(Flynn), 조이(Joy)
 
 #### Team 17 /
 > 키노트 발표 준비를 도와주는 앱 - pdf importing + 직접 작성한 스크립트를 통하여 음성인식 기능을 활용.
