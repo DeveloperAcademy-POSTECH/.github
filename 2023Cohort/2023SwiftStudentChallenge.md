@@ -7,3 +7,4 @@ Example is in the first row😉
 |Judy|[Minji Lee](https://github.com/manju-minji)|[Code with Piano](https://github.com/manju-minji/wwdc20)|Accepted|
 |  El Cap. | [Myung Geun Choi](https://github.com/mgdgc) | [Earth Debugger](https://github.com/mgdgc/earth-debugger) | Submitted |
 |Greed|[DongGuk Lee](https://github.com/Greeddk)|[Portal Ladder Game](https://github.com/Greeddk/WWDC2023)|Submitted|
+|Hajime|[Jong Myeong Ha](https://github.com/hhajime)|[Sensit](https://github.com/hhajime/Sensit-WWDC-2023-Swift-Student-Challenge)|Accepted|
