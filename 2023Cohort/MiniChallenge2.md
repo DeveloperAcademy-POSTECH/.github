@@ -1,16 +1,5 @@
-<div class="pull-left">
-    Left Column(좌측 단)
-</div>
-<div class="pull-right">
-  [🌝 Afternoon Session](#Afternoon-Session)
-</div>
-
-[Group 1](#Group-1)
-
-[🌞 Morning Session](#🌞-Morning-Session) | [🌝 Afternoon Session](#Afternoon-Session)
----|---
-
-
+#### [🌞 Morning Session](#🌞-Morning-Session)
+#### [🌝 Afternoon Session](#Afternoon-Session)
 
 ---
 
@@ -39,7 +28,7 @@
 - Member : Whaeun, Hani, Woozu, Rash, Walker, Dana
 
 #### Team 5
-- 🔗 Repository
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team5-DragonKitchen)
 - Member : Uni, David Goggins, Eden, Dion, Kiyoung, Hannah
 
 #### Team 6 / Ppack
@@ -54,8 +43,8 @@
 - [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team7-Fighring)
 - Member : JellyBeen, Lia, Gyunni, Yong82, Lavine, Tamra
 
-#### Team 8 / 알파카
-- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2-Team10-AlphaCar)
+#### Team 8 / 타일러키우기
+- [🔗 Repository](https://github.com/DeveloperAcademy-POSTECH/MC2_Team8_ChagokChagok)
 - Member : Bentley, Claudia, zett, Anne, Tyler, Seng
 
 #### Team 9 / 하이오션
